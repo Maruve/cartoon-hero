@@ -1,15 +1,11 @@
 body{
-	background-color: lightgrey;
+	background-image: https://images.pexels.com/photos/240040/pexels-photo-240040.jpeg?auto=compress&cs=tinysrgb&h=350
 }
 
 h1{
 	color: orange;
 	font-size: 90px;
 	text-decoration: underline;
-}
-
-h2{font-size: 22px;
-	color: green;
 
 }
 #first{
